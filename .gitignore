@@ -10,3 +10,15 @@ tempCodeRunnerFile.cpp
 # Compiled binaries
 *.out
 *.exe
+
+# Ignore these executables
+Arrays (Part 1)/BinSearch
+Arrays (Part 1)/LinearSearch
+Arrays (Part 1)/Largestelement
+Arrays (Part 1)/ReverseArr
+Arrays (Part 1)/ReverseArrOptimized
+Arrays (Part 1)/ReverseArrOptimisedMost
+Arrays (Part 1)/arrPassesbyRef
+Arrays (Part 1)/coutcin
+Arrays (Part 1)/coutatIndex
+Arrays (Part 1)/printArr
