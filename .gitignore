@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.cpp
+
+# Compiled binaries
+*.out
+*.exe
