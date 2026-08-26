@@ -2,6 +2,8 @@
 
 //rowwise 
 
+// T.C. -> O(n * log m)
+
 #include <iostream>
 using namespace std;
 
