@@ -17,6 +17,7 @@ bool search(int matrix[][4], int n, int m, int key) {
             //right
             j++;
         } else {
+            //up
             i--;
         }
     }
