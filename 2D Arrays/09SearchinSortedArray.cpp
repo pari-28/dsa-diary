@@ -1,6 +1,8 @@
 //Brute force 
 #include <iostream>
-using namespace std;
+using namespace std; 
+
+// T.C. -> O(n * m)
 
 bool search(int matrix[][4], int n, int m, int key) {
     for (int i=0; i<n; i++) {
