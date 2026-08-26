@@ -1,7 +1,7 @@
 //rowwise/columnwise Binary Search
 
 // columnwise
-
+// T.C. -> 0(m * log n)
 #include <iostream>
 using namespace std;
 
